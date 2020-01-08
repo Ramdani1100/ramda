@@ -1,0 +1,15 @@
+pkg update && pkg upgrade
+pkg install cowsay
+pkg install vim
+pkg install nano
+pkg install gem
+gem install lolcat
+cd ../usr/share/cows
+ls
+ESC :wq
+cd
+cd ../usr/etc
+ls
+nano bash.bashrc
+script
+kalo mau hapus (i)
